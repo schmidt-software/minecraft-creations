@@ -4,7 +4,7 @@ Statische Webseite (reines HTML/CSS, keine Datenbank, kein Server-Code
 nötig), die alle Skins aus `../skins/` als Karten mit Vorschaubild und
 Download-Link anzeigt.
 
-**Live:** https://schmidt-software.github.io/minecraft-creations/
+**Live:** https://schmidt-software.github.io/minecraft-creations/  
 **Repo:** https://github.com/schmidt-software/minecraft-creations
 
 ## Inhalt aktualisieren
